@@ -1,0 +1,14 @@
+“What does this produce? Java
+You know the split() method on 
+String creates Java an array of Strings,
+and you know map() produces a stream,
+so what this Java line of code does is 
+take the stream of lines coming from 
+the file, Java splits each line into a String[],
+and generates a Java Stream of String arrays, 
+which we write as Stream<String[]>:
+”
+
+Excerpt From: Kathy Sierra. “OCP Java SE Java 8 
+Programmer II Exam Guide (Exam 1Z0-809)”. Apple 
+Books. 

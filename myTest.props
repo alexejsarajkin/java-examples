@@ -1,0 +1,16 @@
+! Comment
+# Comment
+com.hello=    Hello java
+hello1=Hello \
+world!
+hello2=Hello \nworld!
+hello3=     123\
+  45
+hello4 Hellow world!
+
+
+
+
+
+
+
