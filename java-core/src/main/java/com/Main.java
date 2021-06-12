@@ -4,16 +4,7 @@ package com;
 public class Main {
 
     public static void main(String[] args) {
-        int num = 99;
 
-        int rounded = (num + 100);
-        rounded = rounded / 100;
-        rounded = rounded * 100;
-        System.out.println(rounded);
-
-        int length = "eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkEyNTZHQ00ifQ.BcAMeu5LSXx7Xi7WKGK6fCjOKLX7OHwctIr7Gq3SalQ1m1TwnUFQINkHBfOb4ik6axJ7nQKlf6Bct0bZwFzG-Y_ZdKnAZ6vlklVLHfHbjAfWNJXCWBtxIqlXyUDZk4t7Kva1sfV9KkKTRPHlKcf3M1myZ5BKXQtPHTVYBSLvfmHUjatZfYU7AX-LJfQ0UItu7hik_-AB2Xra1HUEQ_dt5Q3OrUPFvVwawHbBtJvj_WHFyGDF5eiFbF_0cTm4LAcVS2j6TMkSF8aWviLdelxxg2_eTXWOJW-8uIXAFfxe8df5FHawBgnr2CkIlQ9ddH9yCO_yRAFUpLWYv3lNIXLYoQ.iuwAE-kSfAoiE6LI.7c-i3WCPibeKecZdnnMZKpaKpW8LNAkajrVo97SKuccIwIEwv3Jyzrp0Wpawv9Ba3R0uDetnqPxhuvD5GxtTPhhZ8pYywooVe8nlhXD5zTr48dLFe3a6mV2X50S_RrOO0gzPOU6OeZTemK5J37eeDkHgXK-_FoK0z2kuajXEGCLSsRBd3wllsxfJZE4gWJhYbJygvGyUG-AFpXrlujeG53YS1sf3iFBbGSylA1-Yz0ZkGefEKWl-sMG-KiKS5qjnfcko7Kom9m7Fhcnnr8K873kwKb9MZ_ANQFMxEGFcCXNFM3tm6og1aEYKV6SJ2fjV9EReWAqdQlnxQ04LAX2ucMN3WsqZxt9WDOza6kxDGUp6toJAJ2Or7KTSVe9ByBmnOgq4-sYi6BJB1K3v-ffCid1Mvhvy3cugRLRfL6YUmi_a71LfQOpVyVZDyxvvt_dP5hJuSxwNkfL_fuEBODZ4-lgWE1F1nUkJq-0oAm105c6J8TwAvDmhpzhLDFwuypUXJgGZC4pK_53KJG7Kp0qN0h_YW3LWcrH67lSMX0EqFPWJku_ELqXTMzdoF9PGpYJKreyZf4ajrpEe_3dQ87ZEwEqAMRDzCjjVg6_uWnPucMjl7hIQaFWe64y4aAZ28OlXA5TsLQ_BcVamui7qHkcjkvyCDYTTKCwzu_ExlaXkDREoQdD_DIj1u0Adp5qTDFaek1O7tqJQmgBQVie2pvLCTkGi14APcdAJ8DE3uM7sGXufVWOEPgTGwVzGV81JPpW3ZA2Hkym1sqi1RO2W2Sk5bsd9wl1xMxTvpvSnDMeKwbtONNXnI83hPtni3vBsHBiSJB6ZtZH-FJWIudw2P6yMcmK7ObqRenPHjfMChay6sElZcYNX_iNAM0vn0BYy0mac0nqZDfMR-4UVItB9YzH4knskgMI5nT_ghB0PbzvTKZU4Cfm4rubm2g_Pj80JJUD-Pe4FabxhtEXGvRnSDlNv9ljXTPvf7YUp_9khS_fEulmxHmwWbVZkpPWhRxzEU-ScQMAvOywQI2KT-nRWnZVez0dli26Kt84yRUoPTfLJShi0ZKskiRw7GoxXOlS5xlg.Rf-GaqaSdaPkOLVl2v4RgQ".length();
-
-        System.out.println(length);
 
     }
 }

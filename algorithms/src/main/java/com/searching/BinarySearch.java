@@ -1,4 +1,4 @@
-package com.chapter1;
+package com.searching;
 
 import org.junit.Test;
 

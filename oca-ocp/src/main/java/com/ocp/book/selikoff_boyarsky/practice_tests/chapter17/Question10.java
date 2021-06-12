@@ -14,5 +14,11 @@ public class Question10 {
         LocalDate thatOne = LocalDate.of(2018, Month.SEPTEMBER, 29);
         System.out.println(later.isBefore(thisOne) + " "
                 + later.isBefore(thatOne));
+
+        LocalDate this1 = LocalDate.of(2020, Month.APRIL, 20);
+        LocalDate this2 = LocalDate.of(2021, Month.APRIL, 20);
+
+        System.out.println(Period.between(this1, this2));
+        System.out.println(Period.between(this1, this2).getMonths());
     }
 }
