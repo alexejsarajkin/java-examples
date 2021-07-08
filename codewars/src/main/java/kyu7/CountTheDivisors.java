@@ -12,7 +12,7 @@ package kyu7;
   numberOfDivisors(30) == 8 // 1, 2, 3, 5, 6, 10, 15, 30
  */
 
-import org.testng.annotations.Test;
+import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
